@@ -5,7 +5,7 @@
 body {
   margin: 0;
   background: teal;
-  color: #3a23bd;
+  color: #212f53;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -55,7 +55,7 @@ h2 {
 }
 
 h2 {
-  color: #2906a7; /* bright accent */
+  color: #1f124d; /* bright accent */
 }
 
 .content p {
@@ -184,7 +184,7 @@ nav h1 {
 }
 /* Portfolio styles */
 .content h1 {
-  color: rgb(0, 0, 0);
+  color: rgb(37, 40, 128);
 }
 
 #portfolio {

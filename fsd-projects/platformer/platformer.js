@@ -52,9 +52,8 @@ createCollectable("speed", 630, 350, 0.7, 0.2);
 
     // TODO 4 - Create Cannons
 createCannon("right", 500, 2200)
-createCannon("left", 200, 2000)
+createCannon("left", 200, 1500),
 createCannon("top", 500, 600)
-createCannon("left", 200, 700)
 
     
     
