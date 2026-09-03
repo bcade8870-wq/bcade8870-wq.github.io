@@ -4,8 +4,8 @@
 
 body {
   margin: 0;
-  background: #947706;
-  color: #222;
+  background: #5287aa;
+  color: #3a23bd;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -144,7 +144,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #d4c4af;
+  background: #e4daa5;
   border: 1px solid #000000;
   border-radius: 12px;
 }
@@ -155,7 +155,7 @@ nav h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #37582e;
+  color: #2f4728;
 }
 
 #nav-ul {
@@ -179,7 +179,7 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #000;
+  background: #000000;
   color: #fff;
 }
 /* Portfolio styles */
