@@ -45,6 +45,7 @@ createPlatform(1100, 200, 10, 110, "black");
 createPlatform(700, 200, 200, 10, "black");
 createPlatform(1000, 100, 200, 10, "black");
 createPlatform(600, 400, 100, 10, "black");
+
     // TODO 3 - Create Collectables
 createCollectable("speed", 930, 450, 0.7, 0.2);
 createCollectable("speed", 1330, 130, 0.7, 0.2);
